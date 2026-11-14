@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Mayo Clinic",
+      "urlPattern": "mayoclinic.org"
+    }
+  ],
+  "file": "mayoclinic.js"
+}
